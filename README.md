@@ -17,8 +17,7 @@ WEAPON SKINS - https://forums.alliedmods.net/showthread.php?t=298770
 
 MOVEMENTHUD (the keys on the hud) - https://forums.alliedmods.net/showthread.php?t=244114
 
-MOVEMENTAPI (for jumpbug) - https://forums.alliedmods.net/showthread.php?p=2658049
-
+GOKZ for everything else kz related... ? - https://github.com/KZGlobalTeam/gokz
 
 # MISC MODS
 retakes - https://forums.alliedmods.net/showthread.php?t=262658
