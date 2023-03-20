@@ -2,10 +2,12 @@
 cheesecake peek's cfg.. cyka2 is the main config - with all the binds and video settings (I always update this manually) ,
 smoke is for smokes, training is for all the training cfgs, crosshair for crosshair toggles, viewmodels for viewmodel toggles -
 
-## ===== current launch options =====
-     -cl_disablehtmlmotd 1 -tickrate 128 -nojoy -novid -fullscreen +violence_hblood 0 +exec cyka2 +fps_max 250 -high +volume 0 +cl_threaded_bone_setup 1 -sdr_spew_level 3 +unbind mouse5 
+## current launch options 
+     -cl_disablehtmlmotd 1 -tickrate 128 -nojoy -novid -fullscreen 
+     +violence_hblood 0 +exec cyka2 +fps_max 250 -high +volume 0 
+     +cl_threaded_bone_setup 1 -sdr_spew_level 3 +unbind mouse5 
 
-## ====== LIST OF MODS USED (for trainning and other stuff) =====
+##  LIST OF MODS USED (for trainning and other stuff) 
 
 PRACMODE (NADE TRAILS, RETHROW,ETC) https://github.com/splewis/csgo-practice-mode
 GLOVES - https://forums.alliedmods.net/showthread.php?t=299977 
