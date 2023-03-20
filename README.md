@@ -10,12 +10,17 @@ smoke is for smokes, training is for all the training cfgs, crosshair for crossh
 ##  LIST OF MODS USED (for trainning and other stuff) 
 
 PRACMODE (NADE TRAILS, RETHROW,ETC) https://github.com/splewis/csgo-practice-mode
+
 GLOVES - https://forums.alliedmods.net/showthread.php?t=299977 
+
 WEAPON SKINS - https://forums.alliedmods.net/showthread.php?t=298770
+
 MOVEMENTHUD (the keys on the hud) - https://forums.alliedmods.net/showthread.php?t=244114
+
 MOVEMENTAPI (for jumpbug) - https://forums.alliedmods.net/showthread.php?p=2658049
 
 
 # MISC MODS
 retakes - https://forums.alliedmods.net/showthread.php?t=262658
+
 pug setup - https://forums.alliedmods.net/showthread.php?t=244114
