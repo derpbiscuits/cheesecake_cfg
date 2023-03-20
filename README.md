@@ -19,6 +19,8 @@ MOVEMENTHUD (the keys on the hud) - https://forums.alliedmods.net/showthread.php
 
 GOKZ for everything else kz related... ? - https://github.com/KZGlobalTeam/gokz
 
+https://docs.gokz.org/guides/install-gokz.html
+
 # MISC MODS
 retakes - https://forums.alliedmods.net/showthread.php?t=262658
 
