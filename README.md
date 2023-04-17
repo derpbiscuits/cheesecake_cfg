@@ -25,3 +25,9 @@ https://docs.gokz.org/guides/install-gokz.html
 retakes - https://forums.alliedmods.net/showthread.php?t=262658
 
 pug setup - https://forums.alliedmods.net/showthread.php?t=244114
+
+
+### apex folder is for apex stuff
+
+auto exec for boring autoexec shit; superglides for superglides (duh); and the videoconfig goes in C:\Users\USERNAME\Saved Games\Respawn\Apex\local - make sure to lock it so it doesnt change 
+
