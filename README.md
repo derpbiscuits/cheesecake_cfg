@@ -17,7 +17,9 @@ WEAPON SKINS - https://forums.alliedmods.net/showthread.php?t=298770
 
 https://github.com/kgns/weapons/releases/tag/v1.7.8 (for anubis collection )
 
-MOVEMENTHUD (the keys on the hud) - https://forums.alliedmods.net/showthread.php?t=244114
+MOVEMENTHUD (the keys on the hud) - https://github.com/Sikarii/movementhud
+
+https://forums.alliedmods.net/showthread.php?p=2658049
 
 GOKZ for everything else kz related... ? - https://github.com/KZGlobalTeam/gokz
 
