@@ -15,6 +15,8 @@ GLOVES - https://forums.alliedmods.net/showthread.php?t=299977
 
 WEAPON SKINS - https://forums.alliedmods.net/showthread.php?t=298770
 
+https://github.com/kgns/weapons/releases/tag/v1.7.8 (for anubis collection )
+
 MOVEMENTHUD (the keys on the hud) - https://forums.alliedmods.net/showthread.php?t=244114
 
 GOKZ for everything else kz related... ? - https://github.com/KZGlobalTeam/gokz
