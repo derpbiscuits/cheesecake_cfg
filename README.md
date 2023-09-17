@@ -7,6 +7,9 @@ smoke is for smokes, training is for all the training cfgs, crosshair for crossh
      +violence_hblood 0 +exec cyka2 +fps_max 180 -high +volume 0 
      +cl_threaded_bone_setup 1 -sdr_spew_level 3 =
 
+## FLASHBANG / DEATH SOUND
+CSGO SOUND FIX - https://github.com/patrikzudel/PatrikZeros-CSGO-Sound-Fix
+
 ##  LIST OF MODS USED (for trainning and other stuff) 
 
 PRACMODE (NADE TRAILS, RETHROW,ETC) https://github.com/splewis/csgo-practice-mode
