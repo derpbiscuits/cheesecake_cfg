@@ -4,7 +4,7 @@ smoke is for smokes, training is for all the training cfgs, crosshair for crossh
 
 viewmodels / copypastas / crosshairs all remain the same, other ones are outdated.
 
-## NVIDIA SHADOWPLAY HELP
+### NVIDIA SHADOWPLAY HELP
 
 - changing binds to "none" just press spacebar - so you can get alt+f11 back
   
@@ -15,6 +15,14 @@ viewmodels / copypastas / crosshairs all remain the same, other ones are outdate
 - IF THE HOTKEY DOESN'T WORK, TRY ALT + Z FIRST, THEN IF IT DOESNT GO INTO SERVICES.MSC and then restart all things under NVIDIA
   
 - if that doesn't work then go to the nvidia geforce folder (program files/nvidia corp) and restart nvidia share
+
+### systemservices002 error or whatever
+
+- under steamapps\common\Counter-Strike Global Offensive\game\csgo\ 
+    
+- delete gameinfo.gi (then verify files)
+
+- or game\bin\win64, then delete anything that begins with system (or for hell the whole folder idk)
 
 
 ## current launch options 
