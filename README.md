@@ -1,5 +1,5 @@
 ### cheesecake_cfg  28th sept 2023
-cheesecake peek's cfg.. cyka2 is the main config - with all the binds and video settings (I always update this manually) ,
+cheesecake peek's cfg.. config_cs2 is the main config (cyka2 is now retired) - with all the binds and video settings (I always update this manually) ,
 smoke is for smokes, training is for all the training cfgs, crosshair for crosshair toggles, viewmodels for viewmodel toggles -
 
 viewmodels / copypastas / crosshairs all remain the same, other ones are outdated.
