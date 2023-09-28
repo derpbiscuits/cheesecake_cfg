@@ -23,8 +23,11 @@ viewmodels / copypastas / crosshairs all remain the same, other ones are outdate
 - delete gameinfo.gi (then verify files)
 
 - or game\bin\win64, then delete anything that begins with scenesystem or scenesystem_002 (or for hell the whole folder idk)
+- clear your steam download cache, then verify game files
 
 - go to [this thread](https://steamcommunity.com/app/730/discussions/0/3819655068777749970/) and try out everything
+
+- uninstall and reinstall drivers
 
 
 ## current launch options 
