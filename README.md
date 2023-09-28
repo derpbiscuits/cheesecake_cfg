@@ -4,6 +4,19 @@ smoke is for smokes, training is for all the training cfgs, crosshair for crossh
 
 viewmodels / copypastas / crosshairs all remain the same, other ones are outdated.
 
+## NVIDIA SHADOWPLAY HELP
+
+- changing binds to "none" just press spacebar - so you can get alt+f11 back
+  
+  
+- be sure to change temp files location
+  
+
+- IF THE HOTKEY DOESN'T WORK, TRY ALT + Z FIRST, THEN IF IT DOESNT GO INTO SERVICES.MSC and then restart all things under NVIDIA
+  
+- if that doesn't work then go to the nvidia geforce folder (program files/nvidia corp) and restart nvidia share
+
+
 ## current launch options 
      -cl_disablehtmlmotd 1 -tickrate 128 -nojoy -novid -fullscreen 
      +violence_hblood 0 +exec cyka2 +fps_max 180 -high +volume 0 
