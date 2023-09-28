@@ -16,13 +16,13 @@ viewmodels / copypastas / crosshairs all remain the same, other ones are outdate
   
 - if that doesn't work then go to the nvidia geforce folder (program files/nvidia corp) and restart nvidia share
 
-### systemservices002 error or whatever
+### scenesystem002 error or whatever
 
 - under steamapps\common\Counter-Strike Global Offensive\game\csgo\ 
     
 - delete gameinfo.gi (then verify files)
 
-- or game\bin\win64, then delete anything that begins with system (or for hell the whole folder idk)
+- or game\bin\win64, then delete anything that begins with scenesystem or scenesystem_002 (or for hell the whole folder idk)
 
 
 ## current launch options 
