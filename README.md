@@ -18,6 +18,8 @@ viewmodels / copypastas / crosshairs all remain the same, other ones are outdate
 
 ### scenesystem002 error or whatever
 
+- delete old csgo workshop maps
+  
 - under steamapps\common\Counter-Strike Global Offensive\game\csgo\ 
     
 - delete gameinfo.gi (then verify files)
