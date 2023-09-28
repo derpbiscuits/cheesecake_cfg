@@ -24,6 +24,8 @@ viewmodels / copypastas / crosshairs all remain the same, other ones are outdate
 
 - or game\bin\win64, then delete anything that begins with scenesystem or scenesystem_002 (or for hell the whole folder idk)
 
+- go to [this thread](https://steamcommunity.com/app/730/discussions/0/3819655068777749970/) and try out everything
+
 
 ## current launch options 
      -cl_disablehtmlmotd 1 -tickrate 128 -nojoy -novid -fullscreen 
