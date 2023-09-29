@@ -29,7 +29,7 @@ viewmodels / copypastas / crosshairs all remain the same, other ones are outdate
 
 - go to [this thread](https://steamcommunity.com/app/730/discussions/0/3819655068777749970/) and try out everything
 
-- uninstall and reinstall drivers
+- uninstall and reinstall drivers (or just doing a fresh install, seemed to work for me idk why or how)
 
 
 ## current launch options 
