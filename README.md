@@ -10,7 +10,7 @@ viewmodels / copypastas / crosshairs all remain the same, other ones are outdate
   
   
 - be sure to change temp files location
-  
+
 
 - IF THE HOTKEY DOESN'T WORK, TRY ALT + Z FIRST, THEN IF IT DOESNT GO INTO SERVICES.MSC and then restart all things under NVIDIA
   
@@ -30,6 +30,10 @@ viewmodels / copypastas / crosshairs all remain the same, other ones are outdate
 - go to [this thread](https://steamcommunity.com/app/730/discussions/0/3819655068777749970/) and try out everything
 
 - uninstall and reinstall drivers (or just doing a fresh install, seemed to work for me idk why or how)
+
+## temporary fix for not being able to get custom maps
+- just host a [server](https://steamcommunity.com/sharedfiles/filedetails/?id=3037135446)
+  
 
 
 ## current launch options 
