@@ -75,6 +75,7 @@ auto exec for boring autoexec shit; superglides for superglides (duh); and the v
 
 ### Custom CSS for dotabod
 
+</details><summary>changes medal location, W/L text location and size, adds shadow to mmr text</summary> 
 
 ```
   /* selects medal-image and positions it */
@@ -103,9 +104,16 @@ auto exec for boring autoexec shit; superglides for superglides (duh); and the v
 #__next > div > div.absolute.flex.items-end.justify-end > div:nth-child(1) > div > div > span.text-red-400 {
   color: rgb(236, 4, 31);
 }
-/* custom font-size for mmr */
+/* custom font-size mmr */
 #__next > div > div.absolute.flex.items-end.justify-end > div:nth-child(2) > div > div {
   font-size: 18px !important;
+}
+
+}
+/* custom mmr shadow  */ 
+#__next > div > div.absolute.flex.items-end.justify-end > div:nth-child(2) > div > div {
+   text-shadow: 1px 1px 2px black;
+ 
 }
 
 /* removes opaque background from elements */
@@ -115,6 +123,7 @@ auto exec for boring autoexec shit; superglides for superglides (duh); and the v
 
 ```
 
+</details>
 
 
 
