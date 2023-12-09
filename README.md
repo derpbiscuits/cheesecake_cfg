@@ -75,7 +75,6 @@ auto exec for boring autoexec shit; superglides for superglides (duh); and the v
 
 ### Custom CSS for dotabod
 
-<details>
 ```
   
   /* selects medal-image and positions it */
@@ -115,6 +114,6 @@ auto exec for boring autoexec shit; superglides for superglides (duh); and the v
 }
 
 ```
-</details>
+
 
 
