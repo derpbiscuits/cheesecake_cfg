@@ -72,3 +72,46 @@ pug setup - https://forums.alliedmods.net/showthread.php?t=244114
 
 auto exec for boring autoexec shit; superglides for superglides (duh); and the videoconfig goes in C:\Users\USERNAME\Saved Games\Respawn\Apex\local - make sure to lock it so it doesnt change 
 
+
+### Custom CSS for dotabod
+
+<summary>
+  /* selects medal-image and positions it */
+#__next > div > div.absolute.flex.items-end.justify-end > div:nth-child(2) > div > img {
+  position: absolute;
+  top: -83px;  
+  left: -1051px;
+}
+/* selects wl-text and positions it */
+#__next > div > div.absolute.flex.items-end.justify-end > div:nth-child(1) > div {
+  position: absolute;
+  top: -115px;
+  left: -1051px;
+}
+/* selects mmr-text and positions it  */
+#__next > div > div.absolute.flex.items-end.justify-end > div:nth-child(2) > div > div {
+  position: absolute;
+  top: -120px;
+  left: -1051px;
+
+/* custom "W"-color */
+#__next > div > div.absolute.flex.items-end.justify-end > div:nth-child(1) > div > div > span.text-green-400 {
+  color: rgb(42, 203, 79);
+}
+/* custom "L"-color */
+#__next > div > div.absolute.flex.items-end.justify-end > div:nth-child(1) > div > div > span.text-red-400 {
+  color: rgb(236, 4, 31);
+}
+/* custom font-size for mmr */
+#__next > div > div.absolute.flex.items-end.justify-end > div:nth-child(2) > div > div {
+  font-size: 18px !important;
+}
+
+/* removes opaque background from elements */
+#__next > div > div.absolute.flex.items-end.justify-end .bg-slate-700\/50 {
+  background-color: rgba(41, 52, 68, 0);
+}
+</summary>
+
+
+
