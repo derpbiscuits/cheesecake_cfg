@@ -75,7 +75,9 @@ auto exec for boring autoexec shit; superglides for superglides (duh); and the v
 
 ### Custom CSS for dotabod
 
-<summary>
+<details>
+```
+  
   /* selects medal-image and positions it */
 #__next > div > div.absolute.flex.items-end.justify-end > div:nth-child(2) > div > img {
   position: absolute;
@@ -109,9 +111,10 @@ auto exec for boring autoexec shit; superglides for superglides (duh); and the v
 
 /* removes opaque background from elements */
 #__next > div > div.absolute.flex.items-end.justify-end .bg-slate-700\/50 {
-  background-color: rgba(41, 52, 68, 0);
+  background-color: rgba(41, 52, 68, 0); 
 }
-</summary>
 
+```
+</details>
 
 
