@@ -75,7 +75,11 @@ auto exec for boring autoexec shit; superglides for superglides (duh); and the v
 
 ### Custom CSS for dotabod
 
-</details><summary>changes medal location, W/L text location and size, adds shadow to mmr text</summary> 
+<details>
+
+<summary>changes medal location, W/L text location and size, adds shadow to mmr text</summary> 
+
+## put this in 'custom css' on OBS
 
 ```
   /* selects medal-image and positions it */
@@ -120,7 +124,6 @@ auto exec for boring autoexec shit; superglides for superglides (duh); and the v
 #__next > div > div.absolute.flex.items-end.justify-end .bg-slate-700\/50 {
   background-color: rgba(41, 52, 68, 0); 
 }
-
 ```
 
 </details>
