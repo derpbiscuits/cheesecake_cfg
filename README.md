@@ -16,6 +16,14 @@ viewmodels / copypastas / crosshairs all remain the same, other ones are outdate
   
 - if that doesn't work then go to the nvidia geforce folder (program files/nvidia corp) and restart nvidia share
 
+### Resetting gamesettings.ini
+
+- delete it from C:\Users\[name]\Documents\My Games\Rainbow Six - Siege\[current version, random numbers n letters]
+
+- launch steam & uplay & siege in OFFLINE MODE (so that it doesn't load a cloud save)
+
+- make changes from ingame, then can change the file.
+
 ### scenesystem002 error or whatever
 
 - delete old csgo workshop maps
