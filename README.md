@@ -37,9 +37,7 @@ viewmodels / copypastas / crosshairs all remain the same, other ones are outdate
 
 
 ## current launch options 
-     -cl_disablehtmlmotd 1 -tickrate 128 -nojoy -novid -fullscreen 
-     +violence_hblood 0 +exec cyka2 +fps_max 180 -high +volume 0 
-     +cl_threaded_bone_setup 1 -sdr_spew_level 3 =
+    -allow_third_party_software +fps_max 130 -fullscreen -w 1440 -h 1080 +exec alias +violence_hblood 0 -dev -cl_disablehtmlmotd 1 +volume 0 -nojoy -novid +cl_forcepreload 1 -lv
 
 ## FLASHBANG / DEATH SOUND
 CSGO SOUND FIX - https://github.com/patrikzudel/PatrikZeros-CSGO-Sound-Fix
